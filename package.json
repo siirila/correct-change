@@ -1,0 +1,19 @@
+{
+  "name": "correct-change",
+  "version": "1.0.0",
+  "description": "When you purchase something and pay in cash the cashier will attempt to give you back your change using the largest denomination of currency possible. For example if I bought something and the total was $18.64 and I paid with a $20 bill they would give me back one dollar, one quarter, one dime, and one penny as change.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siirila/correct-change.git"
+  },
+  "author": "Jared Siirila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siirila/correct-change/issues"
+  },
+  "homepage": "https://github.com/siirila/correct-change#readme"
+}
