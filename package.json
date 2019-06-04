@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/siirila/correct-change/issues"
   },
-  "homepage": "https://github.com/siirila/correct-change#readme"
+  "homepage": "https://github.com/siirila/correct-change#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
